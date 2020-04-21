@@ -7,7 +7,7 @@
 
 앱 화면 스크린샷
 
-![Screenshot_20200421-170604_  ](https://user-images.githubusercontent.com/45380608/79841670-b9c15180-83f2-11ea-8857-c83e935b99f5.jpg)
-![Screenshot_20200421-170449_  ](https://user-images.githubusercontent.com/45380608/79841674-bb8b1500-83f2-11ea-9b72-d2cf7c2bbc0e.jpg)
-![Screenshot_20200421-170512_  ](https://user-images.githubusercontent.com/45380608/79841676-bd54d880-83f2-11ea-9fec-16bf1d344ebc.jpg)
 
+![Screenshot_20200421-170449_  ](https://user-images.githubusercontent.com/45380608/79842573-fb063100-83f3-11ea-8ff5-39909de86399.jpg)
+![Screenshot_20200421-170512_  ](https://user-images.githubusercontent.com/45380608/79842575-fc375e00-83f3-11ea-8b12-b4ee7745c707.jpg)
+![Screenshot_20200421-170604_  ](https://user-images.githubusercontent.com/45380608/79842578-fccff480-83f3-11ea-8473-f35fb5106d43.jpg)
